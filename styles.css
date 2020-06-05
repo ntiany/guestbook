@@ -1,0 +1,59 @@
+.colored {
+    color: #44AF17;
+}
+
+h1 {
+    margin: 0px;
+}
+
+ul {
+    list-style-type: none;
+    color: #404040;
+    padding: 0px;
+}
+
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+input {
+    border: none;
+    background-color: #f0f0f0;
+}
+
+
+textarea {
+    border: none;
+    background-color: #f0f0f0;
+}
+
+.element {
+    display: block;
+    margin: 5px 0px 10px;
+    width: 100%;
+    color: #404040;
+    
+}
+.content {
+    max-width: 400px;
+    margin: auto;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    padding: 20px;
+}
+
+
+button {
+    background-color: #44AF17;
+    color: white;
+    border-radius: 5px; 
+    border: 0px;
+    padding: 5px 10px;
+}
+
+
+.body {
+    background-color: #eeeeee;
+    color: #404040;
+}
